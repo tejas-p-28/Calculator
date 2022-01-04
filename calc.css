@@ -1,0 +1,15 @@
+.mydark{
+    background-color: black;
+}
+.mydark > .panel-heading > h2{
+    color: green !important;
+}
+.btn{
+    color: white;
+}
+.panel-body{
+    background: #000 !important;
+}
+.container{
+    margin-left: 25%;
+}
