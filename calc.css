@@ -6,10 +6,15 @@
 }
 .btn{
     color: white;
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    text-align: center;
 }
-.panel-body{
-    background: #000 !important;
-}
+
 .container{
     margin-left: 25%;
+}
+.row > button{
+    margin-left: 3% !important;
 }
